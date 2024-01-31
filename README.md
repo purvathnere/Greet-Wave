@@ -1,5 +1,3 @@
 # GreetWave
-
-GreetWave is a simple app for creating cheerful greetings. 
-Enter your name, click "Greet," and enjoy colorful messages.
-It's an easy way to add a touch of happiness to your projects!
+GreetWave is a user-friendly  app that lets you create playful and colorful greetings in seconds.
+Simply enter name, click "Greet," and enjoy the fun messages. 
